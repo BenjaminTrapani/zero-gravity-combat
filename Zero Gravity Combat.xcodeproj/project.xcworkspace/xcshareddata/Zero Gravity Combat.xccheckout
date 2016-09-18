@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1391FFBF-7C86-49CC-A63C-02E64A11C219</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Zero Gravity Combat</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EB2146E0-C1E3-413D-B670-B341AAB0AD3D</key>
+		<string>svn://rtsoft.com/rtsvn/proton/Zero%20Gravity%20Combat</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Zero Gravity Combat.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EB2146E0-C1E3-413D-B670-B341AAB0AD3D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>EB2146E0-C1E3-413D-B670-B341AAB0AD3D</key>
+		<string>svn://rtsoft.com/rtsvn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://rtsoft.com/rtsvn/proton/Zero%20Gravity%20Combat/Zero%20Gravity%20Combat.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EB2146E0-C1E3-413D-B670-B341AAB0AD3D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB2146E0-C1E3-413D-B670-B341AAB0AD3D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Zero Gravity Combat</string>
+		</dict>
+	</array>
+</dict>
+</plist>

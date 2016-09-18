@@ -1,0 +1,56 @@
+10
+
+dir
+0
+svn://rtsoft.com/rtsvn/proton/Zero%20Gravity%20Combat/libs/cocos2d/Platforms
+svn://rtsoft.com/rtsvn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+353e56fe-9613-0410-8469-b96ad8e6f29c
+
+Mac
+dir
+
+
+
+add
+
+iOS
+dir
+
+
+
+add
+
+CCNS.h
+file
+
+
+
+add
+
+CCGL.h
+file
+
+
+
+add
+

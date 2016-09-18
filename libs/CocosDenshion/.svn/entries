@@ -1,0 +1,91 @@
+10
+
+dir
+0
+svn://rtsoft.com/rtsvn/proton/Zero%20Gravity%20Combat/libs/CocosDenshion
+svn://rtsoft.com/rtsvn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+353e56fe-9613-0410-8469-b96ad8e6f29c
+
+CDConfig.h
+file
+
+
+
+add
+
+CocosDenshion.h
+file
+
+
+
+add
+
+SimpleAudioEngine.h
+file
+
+
+
+add
+
+CDOpenALSupport.h
+file
+
+
+
+add
+
+CDAudioManager.h
+file
+
+
+
+add
+
+CocosDenshion.m
+file
+
+
+
+add
+
+SimpleAudioEngine.m
+file
+
+
+
+add
+
+CDOpenALSupport.m
+file
+
+
+
+add
+
+CDAudioManager.m
+file
+
+
+
+add
+
